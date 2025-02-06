@@ -3,8 +3,7 @@ import numpy as np
 import csv
 
 # Ruta al archivo CSV
-csv_file = 'output.csv'  # Cambia esto por la ruta de tu archivo CSV
-
+csv_file = 'output.csv'
 # Lista para almacenar los puntos
 points = []
 
